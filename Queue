@@ -1,0 +1,8 @@
+public intreface Queue<obj> {
+    void join(Object o);
+    void VIPjoin(Object o);
+    Object leave();
+    Object leaveMid();
+    int getLength();
+    boolean isFull();
+    boolean isEmpty();
